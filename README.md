@@ -16,4 +16,7 @@ This is a simple REST API built using Node.js and Express.
    node server.js
 
 3. Open:
-   http://localhost:3000/users# node-rest-api
+   http://localhost:3000/users
+
+## Testing
+Use Postman to test all API endpoints.
