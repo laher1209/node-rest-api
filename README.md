@@ -20,3 +20,16 @@ This is a simple REST API built using Node.js and Express.
 
 ## Testing
 Use Postman to test all API endpoints.
+## API Testing (Postman Screenshots)
+
+GET Request:
+![GET](image1.png)
+
+POST Request:
+![POST](image2.png)
+
+PUT Request:
+![PUT](image3.png)
+
+DELETE Request:
+![DELETE](image4.png)
